@@ -2,8 +2,12 @@
 Learning purposes
 ## Changes
 **BOLD**
+
 *Italic*
-'code=True'
+
+`code=True`
+
+
 1. first
 2. second
 3. third
